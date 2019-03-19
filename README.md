@@ -1,6 +1,5 @@
 # Podcast
-First commit to the project 
-
+ 
 This is a clone of Apple's Podcasts.
 
 
@@ -11,6 +10,8 @@ This is a clone of Apple's Podcasts.
  Saving info about favorite podcasts on disk, so a user can see them offline.
  Downloading episodes for listening to without an Internet connection. </p>
 
+
+<p>&#10004; <p>
 
 
 <h1> Screenshots</h1>
