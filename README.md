@@ -1,14 +1,16 @@
 # Podcast
 First commit to the project 
 
-
 This is a clone of Apple's Podcasts.
+
+
 
 <h1> App Features</h1>
 
- Searching for podcasts using iTunes API.
+<p>I  Searching for podcasts using iTunes API.
  Saving info about favorite podcasts on disk, so a user can see them offline.
- Downloading episodes for listening to without an Internet connection.
+ Downloading episodes for listening to without an Internet connection. </p>
+
 
 
 <h1> Screenshots</h1>
