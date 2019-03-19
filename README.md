@@ -6,9 +6,9 @@ This is a clone of Apple's Podcasts.
 
 <h1> App Features</h1>
 
-<p>I  Searching for podcasts using iTunes API.
- Saving info about favorite podcasts on disk, so a user can see them offline.
- Downloading episodes for listening to without an Internet connection. </p>
+<p>I  <p>&#9745; <p> Searching for podcasts using iTunes API.
+ <p>&#9745; <p> Saving info about favorite podcasts on disk, so a user can see them offline.
+ <p>&#9745; <p> Downloading episodes for listening to without an Internet connection. </p>
 
 
 <p>&#9745; <p>
