@@ -11,7 +11,7 @@ This is a clone of Apple's Podcasts.
  Downloading episodes for listening to without an Internet connection. </p>
 
 
-<p>&#10004; <p>
+<p>&#9745; <p>
 
 
 <h1> Screenshots</h1>
